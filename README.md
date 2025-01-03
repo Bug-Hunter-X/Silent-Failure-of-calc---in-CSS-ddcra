@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet subtle, bug in CSS: the silent failure of the `calc()` function.  The `bug.css` file contains code that demonstrates a calculation error within `calc()`, resulting in unexpected behavior.  The `bugSolution.css` file shows the corrected code with explanations.
